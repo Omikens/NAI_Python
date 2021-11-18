@@ -3,17 +3,9 @@
 
 This tool uses fuzzy logic and rules to determine what grade a player should get depending on his final statistics.
 
-The possible marks are (from best to worst):
+The possible marks are ranged from 1.0 to 10.0
 
--S
 
--A
-
--B
-
--C
-
--D
 
 ![image](https://user-images.githubusercontent.com/48835332/142486439-79ae52ea-1b54-4d6f-8ce2-413b63df5c9f.png)
 
@@ -27,4 +19,7 @@ Player statistics that are taken into consideration are:
 
 ![image](https://user-images.githubusercontent.com/48835332/142486632-78b33dbe-7a6c-4825-b739-5e84e223e6cf.png)
 
+Example graph of membership functions:
+
+![image](https://user-images.githubusercontent.com/48835332/142503560-5cb2e027-3e3b-4c5d-8634-a06a443c9576.png)
 
