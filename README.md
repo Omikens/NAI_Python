@@ -1,6 +1,7 @@
 # LAB 2
 
 # Simple card game with EasyAI
+Documentation: https://zulko.github.io/easyAI/
 
 Player is able to see all posible moves using command "show moves"
 
