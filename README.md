@@ -1,4 +1,4 @@
-# LAB1
+# LAB 1
 # Solved 4 warmup riddles from Codingame website.
 
 1 - The Descent
